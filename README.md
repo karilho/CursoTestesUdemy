@@ -5,6 +5,7 @@ Autor: Valdir Cezar
 
 Curso realizado para aprimorar meus conhecimentos em testes unitários utilizando o Junit e Mockito.
 
+Testando branches para prática.
 
 ### Princípais anotações e funções:
 
@@ -22,3 +23,4 @@ Quando for rodar cobertura, rode o java main dos testes que você obtem o covera
 
 Classes de domínio / entidades geralmente não são testadas, pois você utiliza os métodos pra testar,
 mas também é possivel realizar tais testes.
+
